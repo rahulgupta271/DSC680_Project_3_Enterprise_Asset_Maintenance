@@ -1,6 +1,5 @@
-# DSC680_Project_3_Enterprise_Asset_Maintenance
-
 # Project Name: Enterprise Asset Maintenance
+
 
 ## Project Description: 
 
