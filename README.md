@@ -39,7 +39,7 @@ Follow the below instructions to execute this project succesfully:
 
 3) Ensure that the necessary python modules are installed.
 
-(4) Launch the execution of the code.
+4) Launch the execution of the code.
 
 
 ## Authors
